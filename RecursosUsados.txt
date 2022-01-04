@@ -1,0 +1,19 @@
+Base para o Desenvolvimento
+Horse, Horse.Json, Horse.OctaCore, SimpleORM, 
+https://github.com/alan-petry/GeraClassesSimpleORM
+
+/// configuração para o projeto
+telegram Igor Costa, [29.09.21 03:29]
+// Force the default FormatSettings 
+  FormatSettings.DecimalSeparator := ','; 
+  FormatSettings.CurrencyString := '0.,00'; 
+  FormatSettings.DateSeparator := '.'; 
+  FormatSettings.TimeSeparator := ':'; 
+  FormatSettings.ShortDateFormat := 'dd.mm.yyyy'; 
+  FormatSettings.LongDateFormat := 'dd.mm.yyyy'; 
+  FormatSettings.ShortTimeFormat := 'hh:nn'; 
+  FormatSettings.LongTimeFormat := 'hh:nn:ss.zzz';
+
+Igor Costa, [29.09.21 03:29]
+coloca isso no Source (Project-View Source),. 
+logo antes do Application.Initialize
