@@ -1,0 +1,12 @@
+cfop
+cidade
+compra
+forma de pagamento
+fornecedor
+nfce
+nfe
+pagamento
+pessoa
+produto
+recebimento
+usuario
